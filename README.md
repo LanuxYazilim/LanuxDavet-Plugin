@@ -4,15 +4,15 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.16%2B-brightgreen.svg)](https://www.minecraft.net/)
 [![Spigot](https://img.shields.io/badge/Spigot-API-blue.svg)](https://www.spigotmc.org/)
-[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)](https://github.com/lanux/davetplugin/releases)
+[![Version](https://img.shields.io/badge/Version-1.1.1-orange.svg)](https://github.com/lanux/davetplugin/releases)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📥 İndirme Linkleri
 
 ### 🔥 Son Sürüm
-- **GitHub Releases:** [LanuxDavet v1.0.0](https://github.com/nylithra/lanuxdavetplugin/releases/latest)
+- **GitHub Releases:** [LanuxDavet v1.1.1](https://github.com/nylithra/lanuxdavetplugin/releases/)
 - **SpigotMC:** [SpigotMC Sayfası](https://www.spigotmc.org/resources/lanuxdavet.123456/)
-- **Direct Download:** [JAR Dosyası](https://github.com/nylithra/lanuxdavetplugin/LanuxDavet-1.0.0.jar)
+- **Direct Download:** [JAR Dosyası](https://github.com/nylithra/lanuxdavetplugin/LanuxDavet-1.1.1.jar)
 
 ### 📋 Gereksinimler
 - **Minecraft:** 1.16x - 1.20x
